@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Updates
+This project contains the suggested additional features in the tutorial. Except the draw feature, instead it was modified to not declare a draw but to allow the players to continue playing by reusing spaces. This can only happen after all spaces have been filled.
+
 ## Available Scripts
 
 In the project directory, you can run:
